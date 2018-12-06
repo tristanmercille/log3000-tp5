@@ -1,0 +1,20 @@
+{
+  "name": "log3000-tp5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristanmercille/log3000-tp5.git"
+  },
+  "author": "tristanmercille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tristanmercille/log3000-tp5/issues"
+  },
+  "homepage": "https://github.com/tristanmercille/log3000-tp5#readme"
+}
